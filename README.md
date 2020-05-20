@@ -2,7 +2,7 @@
 
 ## Installation
 
-composer require shadowfiend/markdown_tape
+composer require shadowfiend/markdown-tape
 
 ### How to use
 
